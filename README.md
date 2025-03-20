@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ferouze Ochieng
 =======================================================================================================================================
 
-Front End Developer
+Web Developer
 -------------------
 
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [Portfolio Website](http://ferouzewere.github.io/)
 * ✉️  You can contact me at [ferouzewere@gmail.com](mailto:ferouzewere@gmail.com)
-* 🧠  I'm learning React.JS
+* 🧠  I'm learning PHP/Laravel
 * 🤝  I'm open to collaborating on Website Development
 
 ### Skills
